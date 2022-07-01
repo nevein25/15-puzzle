@@ -1,8 +1,5 @@
 # 15-puzzle
 
-# 15-puzzle
-
-
 <h3 align="center"> Start </h3>
 <img src="https://github.com/nevein25/15-puzzle/blob/master/screenshots/start.png">
 <br/>
