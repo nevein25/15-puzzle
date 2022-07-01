@@ -14,5 +14,5 @@
 <br/>
 
 <h3 align="center"> Won </h3>
-<img src="https://github.com/nevein25/15-puzzle/blob/master/screenshots/won.png">
+<img src="https://github.com/nevein25/15-puzzle/blob/master/screenshots/youWon.png">
 <br/>
